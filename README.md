@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 - **MongoDB**: Ensure you have MongoDB installed and running. You can download and install it from [mongodb.com](https://www.mongodb.com/).
 
 ### Clone the Repository
---git clone https://github.com/vidyasagar14-bit/-totalitycorp-frontend.git
+--git clone https://github.com/vidyasagar14-bit/-totalitycorp-frontend-challenge
 
 #### Navigate to the Project Folder
    cd  project-name
